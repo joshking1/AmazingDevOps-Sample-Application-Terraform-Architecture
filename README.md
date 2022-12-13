@@ -19,6 +19,7 @@ and test connections. This access can be disabled from within the terraform
 files.
 
 ## Architecture Diagram
+![image (1)](https://user-images.githubusercontent.com/88409463/207410798-11a4732d-4303-41fc-bf65-0fe1c0667db5.png)
 Below is a diagram representing the architecture that is produced by executing
 the Terraform files in this directory. 
 
